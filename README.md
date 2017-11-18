@@ -4,6 +4,8 @@
 
 ## Features
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jakubbarczyk/react-or-die.svg)](https://greenkeeper.io/)
+
 - Babel
 - Enzyme
 - Jest
